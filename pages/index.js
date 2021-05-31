@@ -16,7 +16,7 @@ const Home = () => {
           property="og:description"
           content="This is the website of AIRchitect, a compnay dedicated to architecture based in México."
         />
-        <meta property="og:image" content="/images/project2.jpg" />
+        <meta property="og:image" content="/images/project2.jpeg" />
         <meta
           property="og:url"
           content="http://airchitect-example.vercel.app/"
